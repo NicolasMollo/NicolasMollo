@@ -1,20 +1,12 @@
-<h1 align="center">👋 Hi there! I'm Nicolas Mollo, a passionate software developer from Italy.</h1>
+<h1 align="center">👋 Hi there! I'm Nicolas Mollo, a software developer from Italy.</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasMollo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=NicolasMollo&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasMollo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="160" alt="languages graph"  />
-</div>
+<p align="left">- 🔭 I’m currently working on Unity projects and VR/AR projects (always in Unity)<br><br>- 👯 I’m looking to collaborate on Unity projects and VR/AR projects<br><br>- 💬 Ask me about Object-Oriented Programming (OOP)<br><br>- 📫How to reach me nicolasmollo.98@gmail.com</p>
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Unity projects and VR/AR projects (always in Unity)<br><br>- 👯 I’m looking to collaborate on Unity projects and VR/AR projects<br><br>- 💬 Ask me about Object-Oriented Programming (OOP)</p>
-
-###
-
-<h2 align="center">Technologies:</h2>
+<h2 align="center">👨‍💻Technologies:</h2>
 
 ###
 
@@ -113,10 +105,8 @@
 ###
 
 <div align="center">
-  <a href="nicolasmollo.98@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/nicolas-mollo-40b20a323" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/nicolas-mollo-40b20a323/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
   </a>
 </div>
