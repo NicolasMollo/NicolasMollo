@@ -3,10 +3,10 @@
 ###
 
 <p align="left">
-- 🔭 I’m currently working on Unity projects and VR/AR projects (always in Unity)<br><br>
-- 👯 I’m looking to collaborate on Unity projects and VR/AR projects<br><br>
-- 💬 Ask me about Object-Oriented Programming (OOP)<br><br>
-- 📫 How to reach me: <a href="mailto:nicolasmollo.98@gmail.com">nicolasmollo.98@gmail.com</a>
+• 🔭 I’m currently working on Unity projects and VR/AR projects (always in Unity)<br><br>
+• 👯 I’m looking to collaborate on Unity projects and VR/AR projects<br><br>
+• 💬 Ask me about Object-Oriented Programming (OOP)<br><br>
+• 📫 How to reach me: <a href="mailto:nicolasmollo.98@gmail.com">nicolasmollo.98@gmail.com</a>
 </p>
 
 ###
@@ -110,7 +110,6 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/nicolas-mollo-40b20a323/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
   </a>
