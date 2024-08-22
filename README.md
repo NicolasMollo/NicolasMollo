@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi there! I'm Nicolas Mollo, a software developer from Italy.</h1>
+<h1 align="center">💻Software developer</h1>
+
+###
+
+<h3 align="center">👽About me:</h3>
 
 ###
 
@@ -8,6 +12,17 @@
 • 💬 Ask me about Object-Oriented Programming (OOP)<br><br>
 • 📫 How to reach me: <a href="mailto:nicolasmollo.98@gmail.com">nicolasmollo.98@gmail.com</a>
 </p>
+
+###
+
+<h3 align="center">📊Stats:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NicolasMollo&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=NicolasMollo&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
 
