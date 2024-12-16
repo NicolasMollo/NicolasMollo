@@ -8,7 +8,7 @@
 
 <p align="left">
 • 🔭 I’m currently working on Unity projects and VR/AR projects (always in Unity)<br><br>
-• 👯 I’m looking to collaborate on Unity projects and VR/AR projects<br><br>
+• 👯 I’m looking to collaborate on Unity projects and XR projects<br><br>
 • 💬 Ask me about Object-Oriented Programming (OOP)<br><br>
 • 📫 How to reach me: <a href="mailto:nicolasmollo.98@gmail.com">nicolasmollo.98@gmail.com</a>
 </p>
