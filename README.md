@@ -19,10 +19,9 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/NewLabStudio" target="_blank">
-    <p style="text-align: center;">NewLabStudio</p>
-    <img src="./Files/NicolasMollo-Logo.jpg" width="62" height="62" alt="NewLabStudio logo"  />
+    <img src="./Files/NicolasMollo-Logo.jpg" width="80" height="80" alt="NewLabStudio logo"  />
   </a>
 </div>
 
