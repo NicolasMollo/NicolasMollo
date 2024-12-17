@@ -2,20 +2,7 @@
 
 ###
 
-<h3 align="center">👽About me:</h3>
-
-###
-
-<p align="left">
-• 🔭 I’m currently working on Unity projects and XR projects (always in Unity)<br><br>
-• 👯 I’m looking to collaborate on Unity projects and XR projects<br><br>
-• 💬 Ask me about Object-Oriented Programming (OOP)<br><br>
-• 📫 How to reach me: <a href="mailto:nicolasmollo.98@gmail.com">nicolasmollo.98@gmail.com</a>
-</p>
-
-###
-
-<h3 align="center">🔗Organizations:</h3>
+<h2 align="center">🔗Organizations:</h2>
 
 ###
 
@@ -31,7 +18,7 @@
 
 ###
 
-<h3 align="left">🖥️Languages:</h3>
+<h2 align="left">🖥️Languages:</h2>
 
 ###
 
@@ -51,7 +38,7 @@
 
 ###
 
-<h3 align="left">⚙️Engines:</h3>
+<h2 align="left">⚙️Engines:</h2>
 
 ###
 
@@ -65,7 +52,7 @@
 
 ###
 
-<h3 align="left">🤖Platforms:</h3>
+<h2 align="left">🤖Platforms:</h2>
 
 ###
 
@@ -79,7 +66,7 @@
 
 ###
 
-<h3 align="left">🛠️Tools:</h3>
+<h2 align="left">🛠️Tools:</h2>
 
 ###
 
@@ -107,7 +94,7 @@
 
 ###
 
-<h3 align="left">📂Libraries/Frameworks:</h3>
+<h2 align="left">📂Libraries/Frameworks:</h2>
 
 ###
 
@@ -127,7 +114,7 @@
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/nicolas-mollo-40b20a323/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="62" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="80" alt="linkedin logo"  />
   </a>
 </div>
 
