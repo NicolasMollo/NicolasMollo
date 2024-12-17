@@ -115,7 +115,11 @@
 <div align="center">  
   <a href="https://www.linkedin.com/in/nicolas-mollo-40b20a323/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="70" alt="linkedin logo"  />
-    <img src="./Files/Gmail_Icon.png" width="70" height="70" alt="Gmail logo"  />
+  </a>
+</div>
+<div align="center">  
+  <a href="mailto:nicolasmollo.98@gmail.com" target="_blank">
+    <img src="./Files/Gmail_Icon.png" width="70" height="60" alt="Gmail logo"  />
   </a>
 </div>
 
