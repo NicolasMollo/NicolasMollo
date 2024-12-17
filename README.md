@@ -19,12 +19,12 @@
 
 ###
 
-<p align="left">
-  NewLabStudio
+<div align="left">
   <a href="https://github.com/NewLabStudio" target="_blank">
+    <p style="text-align: center;">NewLabStudio</p>
     <img src="./Files/NicolasMollo-Logo.jpg" width="62" height="62" alt="NewLabStudio logo"  />
   </a>
-</p>
+</div>
 
 ###
 
