@@ -124,10 +124,12 @@
 
 ###
 
-<div align="center">
-  
+<div align="center">  
   <a href="https://github.com/NewLabStudio" target="_blank">
     <img src="./Files/NicolasMollo-Logo.jpg" width="62" height="62" alt="NewLabStudio logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nicolas-mollo-40b20a323/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="62" alt="linkedin logo"  />
   </a>
 </div>
 
