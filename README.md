@@ -15,14 +15,16 @@
 
 ###
 
-<h3 align="center">📊Stats:</h3>
+<h3 align="center">🔗Organizations:</h3>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NicolasMollo&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=NicolasMollo&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
+<p align="left">
+  NewLabStudio
+  <a href="https://github.com/NewLabStudio" target="_blank">
+    <img src="./Files/NicolasMollo-Logo.jpg" width="62" height="62" alt="NewLabStudio logo"  />
+  </a>
+</p>
 
 ###
 
@@ -125,9 +127,6 @@
 ###
 
 <div align="center">  
-  <a href="https://github.com/NewLabStudio" target="_blank">
-    <img src="./Files/NicolasMollo-Logo.jpg" width="62" height="62" alt="NewLabStudio logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/nicolas-mollo-40b20a323/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="62" alt="linkedin logo"  />
   </a>
