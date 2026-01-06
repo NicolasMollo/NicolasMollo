@@ -2,18 +2,6 @@
 
 ###
 
-<h2 align="center">🔗Organizations:</h2>
-
-###
-
-<div align="center">
-  <a href="https://github.com/NewLabStudio" target="_blank">
-    <img src="./Files/NicolasMollo-Logo.jpg" width="70" height="70" alt="NewLabStudio logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="center">👨‍💻Technologies:</h2>
 
 ###
